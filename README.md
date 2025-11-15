@@ -356,30 +356,9 @@ npm run dev
 - The app includes error handling and user-friendly error messages
 - CORS is configured to allow frontend-backend communication
 
-## 🐛 Troubleshooting
-
-1. **Backend won't start:**
-   - Ensure all Python dependencies are installed
-   - Check if port 8000 is available
-   - Verify Python version is 3.8+
-
-2. **Frontend won't start:**
-   - Ensure all npm packages are installed
-   - Check if port 5173 is available
-   - Verify Node.js version is 16+
-
-3. **Weather API errors:**
-   - Verify the OpenWeatherMap API key is correct
-   - Check your internet connection
-   - Ensure the location format is valid
-
-4. **CORS errors:**
-   - Ensure backend is running on port 8000
-   - Check CORS settings in `backend/main.py`
-
 ## 👤 Developer
 
-**Name:** [Your Name]  
+**Name:** Roja  
 **Program:** PM Accelerator  
 **Project:** Weather App - Tech Assessment 1 & 2
 
